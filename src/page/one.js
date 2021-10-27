@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from '../components/Link';
-// import Two from './two';
+import Two from './two';
 
 class One extends React.Component{
     render(){
